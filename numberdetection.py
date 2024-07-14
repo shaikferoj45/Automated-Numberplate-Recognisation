@@ -50,4 +50,5 @@ def extract_num(img_filename):
         exit()
     cv2.destroyAllWindows()
 
+
 extract_num("car1.jpeg")
